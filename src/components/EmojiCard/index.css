@@ -1,0 +1,21 @@
+/* Write your code here. */
+.list1 {
+  list-style-type: none;
+  background-color: #9796f0;
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}

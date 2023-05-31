@@ -1,0 +1,35 @@
+/* Write your code here. */
+.div1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.div2 {
+  background-color: #9796f0;
+  border-radius: 10px;
+  height: 600px;
+  width: 600px;
+  border: 10px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.button1 {
+  background-color: #ffce27;
+  height: 40px;
+  width: 130px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.size {
+  height: 200px;
+  width: 200px;
+}

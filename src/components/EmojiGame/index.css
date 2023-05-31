@@ -1,0 +1,13 @@
+/* Write your code here. */
+.backs {
+  background-image: linear-gradient(to right, #6a59ff, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+}
+.unList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
